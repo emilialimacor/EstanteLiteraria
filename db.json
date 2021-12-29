@@ -1,0 +1,53 @@
+{
+  "Livros": [
+    {
+      "id": 7,
+      "nome": "Nascido do Crime",
+      "autor": "Trevor Noah",
+      "foto": "https://miro.medium.com/max/1280/1*NlmGC3PgEhe0YjNqGDRoKQ.png",
+      "genero": null
+    },
+    {
+      "id": 9,
+      "nome": "Harry Potter e a Câmara Secreta",
+      "autor": "J. K. Rowling",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/71NsVQ5MlwL.jpg",
+      "genero": null
+    },
+    {
+      "id": 11,
+      "nome": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "foto": "https://www.worldbookday.com/wp-content/uploads/2018/02/The-Hobbit.jpg",
+      "genero": null
+    },
+    {
+      "id": 12,
+      "nome": "Contentamento",
+      "autor": "S. S. Dalai Lama, Desmond Tutu",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/51ndlJKmE-L.jpg",
+      "genero": null
+    },
+    {
+      "id": 13,
+      "nome": "Ariel",
+      "autor": "Sylvia Plath",
+      "foto": "https://www.prateleiradecima.com/wp-content/uploads/2018/10/IMG_1059.jpg",
+      "genero": null
+    },
+    {
+      "id": 14,
+      "nome": "Harry Potter e a Ordem da Fênix",
+      "autor": "J. K. Rowling",
+      "foto": "https://a-static.mlcdn.com.br/618x463/livro-harry-potter-e-a-ordem-da-fenix/magazineluiza/089061400/84f0e6160216bad0478d6c85a8267647.jpg",
+      "genero": null
+    },
+    {
+      "id": 15,
+      "nome": "Na Margem do Rio Piedra, Eu Sentei e Chorei",
+      "autor": "Paulo Coelho",
+      "foto": "https://livrofacil.vteximg.com.br/arquivos/ids/168374-1000-1000/9788584390786.jpg?v=636734976775100000",
+      "genero": null
+    }
+  ]
+}
